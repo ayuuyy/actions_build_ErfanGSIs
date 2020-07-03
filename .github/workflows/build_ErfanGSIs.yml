@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.2.0.QFACNXM/miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip
+  ROM_URL: https://qzyun.net/SGSI/%E5%B0%8F%E6%96%B0%E5%A4%A7%E5%A4%A7/MIUI12%20%20%E7%BA%A2%E7%B1%B3k20Pro%2020.4.27SGSI-AB-Android%2010%20BY%20%E5%B0%8F%E6%96%B0%E5%A4%A7%E5%A4%A7%EF%BC%88%E8%A7%A3%E5%8E%8B%EF%BC%89%E6%94%AF%E6%8C%81%E5%9C%9F%E8%B4%A8sar%E6%9C%BA%E5%9E%8B.7z
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
